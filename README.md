@@ -13,7 +13,7 @@
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class=pull-right>
-<img align="right" alt="chart" height="200px" src="https://raw.githubusercontent.com/zhekovdobri/JavaScript_Gambling_Game/32672168837c4c65b47d8829c2c196b64de5e603/Gambling_Game_chart.png">
+<img align="right" alt="chart" height="200px" src="https://github.com/zhekovdobri/JavaScript_Number_Game/blob/main/Number_Game_Language_chart.png?raw=true">
 </div>
 
 * _JavaScript_
