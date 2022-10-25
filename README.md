@@ -31,6 +31,12 @@
 
 3. When the user presses the "NEW GAME" button, he resets the game.This sets all scores to 0 and sets player 1 as starting player.
 
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div class=pull-right>
+<img align="right" alt="chart" height="100px" src="https://github.com/zhekovdobri/JavaScript_Number_Game/blob/main/Directory_structure_logo.png?raw=true">
+</div>
+
 ## Directory structure:
 
 <img alt="chart" src="https://raw.githubusercontent.com/zhekovdobri/JavaScript_Gambling_Game/e77823dda55b9cfd6060df3c8caa48ee43dcaa33/Directory_structure_image.png">
