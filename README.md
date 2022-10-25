@@ -39,7 +39,7 @@
 
 ## Directory structure:
 
-<img alt="chart" src="https://raw.githubusercontent.com/zhekovdobri/JavaScript_Gambling_Game/e77823dda55b9cfd6060df3c8caa48ee43dcaa33/Directory_structure_image.png">
+<img alt="chart" src="https://raw.githubusercontent.com/zhekovdobri/JavaScript_Number_Game/fae29c8ab43aff7bb096c6f497baf10c59482e56/Directory_structure_image.png">
 
 ## Setup/Installation Requirements
 
