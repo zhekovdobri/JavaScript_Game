@@ -1,4 +1,4 @@
-<img align="justify" alt="chart" width="950px" src="https://raw.githubusercontent.com/zhekovdobri/JavaScript_Number_Game/aee747726003376a043c9e3758614c8533edd9f0/Number_Game1200.png">
+<img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/JavaScript_Number_Game/blob/main/Number_Game1200.png?raw=true">
 
 # JavaScript_Number_Game
 
