@@ -25,11 +25,7 @@
 
 ## Description
 
-1. When the user presses the "ROLL DICE" button, it generates a random dice roll and at the same time displays the dice number. If the dice number is 0, the game switches the player. If it's not - the game continues.
-
-2. When the user presses the "HOLD" button, the game adds the score to the total score. If the score is Greater or equal to 100, the current player wins. If it's not - the game switches the player.
-
-3. When the user presses the "NEW GAME" button, he resets the game.This sets all scores to 0 and sets player 1 as starting player.
+The aim of the game is to guess the number between 1 and 20. In the lower left corner is an input. Then the player must write down a number from 1 to 20 and press the "check" button. This will tell us if we guessed the correct number. If we are not lucky enough to guess the correct number, the game will give us a message. If we are above the correct number we will get the message - Too high. If we are below the correct number we will get the message - Too low. When we have guessed the correct number, our background will change color from black to green. The game will then change its value from 0 to the correct score. The player will start with 20 points and for every wrong guess our points will decrease by one.
 
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
